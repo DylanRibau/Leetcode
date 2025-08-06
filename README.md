@@ -1,4 +1,5 @@
 # Leetcode Questions
+Some of my solutions for the leetcode [Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/) questions
 
 ## Find Minimum in Rotated Sorted Array
 [Solution](/MinimumRotatedSortedArray/main.go)
